@@ -17,4 +17,6 @@ Make sure you have Python installed on your system. You will also need the follo
 - `opencv-python`
 - `pillow`
 - `numpy`
-- `pygame
+- `pygame`
+
+  
