@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+pygame
+playsound==1.2.2
